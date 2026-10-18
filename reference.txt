@@ -1,0 +1,51 @@
+
+Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/
+
+Achievement Code
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=XVXYM6
+
+https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
+
+https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/
+
+https://microsoftlearning.github.io/mslearn-databricks/
+
+Additional labs references
+
+LLMOps on azure databricks reference sources
+
+https://learn.microsoft.com/en-us/azure/databricks/machine-learning/mlops/llmops
+
+DP-750 labs
+
+https://microsoftlearning.github.io/DP-750T00-Implement-Data-Engineering-Solutions-using-Azure-Databricks/
+
+Study guide for DP-750
+
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-750
+
+A Functional Software Reference Architecture for LLM-Integrated Systems
+
+https://arxiv.org/html/2501.12904v1#S5
+
+Architecture & Design Principles for MLOps & LLMOps
+
+https://medium.com/@andrewpmcmahon629/some-architecture-design-principles-for-mlops-llmops-a505628a903e
+
+llmops reference - databricks
+
+https://www.databricks.com/blog/what-is-llmops
+
+llmops - overview and best practices
+
+https://www.tredence.com/llmops
+
+MLOps and llmops reference book
+
+https://www.databricks.com/resources/ebook/the-big-book-of-mlops
+
+azure free account
+
+https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account
+
