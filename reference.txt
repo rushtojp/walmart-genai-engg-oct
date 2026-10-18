@@ -1,9 +1,10 @@
 
 Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/
 
-Achievement Code
+azure databricks
 
-https://learn.microsoft.com/en-us/users/me/achievements?redeem=XVXYM6
+https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/
+
 
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
 
