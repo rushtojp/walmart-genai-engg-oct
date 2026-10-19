@@ -1,6 +1,10 @@
 
 Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/
 
+labs file reference
+
+https://github.com/MicrosoftLearning/mslearn-databricks/blob/main/Instructions/Exercises/AI-01-Explore-LLMs.md
+
 azure databricks
 
 https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/
