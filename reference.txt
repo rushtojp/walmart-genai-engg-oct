@@ -9,7 +9,6 @@ azure databricks
 
 https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/
 
-
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
 
 https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/
