@@ -13,8 +13,18 @@ https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-
 
 https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/
 
+###
+
+These exercises are designed to support the following training content on Microsoft Learn:
+
+Implement a data lakehouse analytics solution with Azure Databricks
+Implement a machine learning solution with Azure Databricks
+Implement a data engineering solution with Azure Databricks
+Implement Generative AI engineering with Azure Databricks
+
 https://microsoftlearning.github.io/mslearn-databricks/
 
+###
 Additional labs references
 
 LLMOps on azure databricks reference sources
